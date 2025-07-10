@@ -18,7 +18,7 @@ const About = () => {
 
       <div className="flex-1">
         <h2 className="text-4xl md:text-5xl font-bold mb-4 text-black font-script">
-          Meet The Founder of Sam Azuri
+          Meet The Founder of Sum Azuri
         </h2>
         <p className="text-lg mb-4">
           I'm Samu Mncube, a passionate makeup artist and beauty educator based in South Africa. For over 10 years, I've been helping women feel confident, empowered, and radiant through the power of makeup.
