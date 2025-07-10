@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 
 export const LoadingScreen = ({ onComplete }) => {
   const [title, setTitle] = useState("");
-  const fullTitle = "Sam Azuri";
+  const fullTitle = "Sum Azuri";
 
   useEffect(() => {
     let index = 0;
@@ -27,7 +27,7 @@ export const LoadingScreen = ({ onComplete }) => {
 
       <img
         src="/media/logo.jpg"
-        alt="Sam Azuri Logo"
+        alt="Sum Azuri Logo"
         className="w-24 h-24 rounded-full mb-6 animate-bounce shadow-lg"
       />
 
